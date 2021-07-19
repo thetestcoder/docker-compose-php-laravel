@@ -18,7 +18,7 @@ Next -
 
 `docker-compose up -d`
 
-To Install Laravel try
+## To Install Laravel try
 
 before install laravel make sure you have empty src folder (remove all files and folder that inside `src` folder)
 
@@ -26,7 +26,7 @@ before install laravel make sure you have empty src folder (remove all files and
 
 `composer create-project laravel/laravel .`
 
-To stops containers and removes containers, networks, volumes, and images created by `docker-compose up -d`
+## To stops containers and removes containers, networks, volumes, and images created by `docker-compose up -d`
 
 Try -
 
